@@ -18,6 +18,20 @@ the following functions :-
 
 ## Getting Started
 
+### Functionalities
+
+Using the 'Mint' function you can enter your wallet address and addd the number of tokens you want to add to your balance.
+
+Using the 'Burn' function you can enter your wallet address and addd the number of tokens you want to remove from your balance.
+
+The 'balance' button is a mapping of the address and the amount of tokens that address contains.
+
+Using 'TokenAbbrv' you can get the abbreviation of the token's name.
+
+Using 'TokenName' you can know the name of the token.
+
+Using 'TotalSuppy' you can know the total amount of tokens present.
+
 ### Executing program
 
 To run this program, you can use Remix, an online Solidity IDE. To get started, go to the Remix website at https://remix.ethereum.org/.
